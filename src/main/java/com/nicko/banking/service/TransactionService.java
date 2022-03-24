@@ -1,7 +1,7 @@
 package com.nicko.banking.service;
 
-import com.nicko.banking.entity.Account;
-import com.nicko.banking.entity.Transaction;
+import com.nicko.banking.model.Account;
+import com.nicko.banking.model.Transaction;
 
 import java.math.BigDecimal;
 import java.util.Date;

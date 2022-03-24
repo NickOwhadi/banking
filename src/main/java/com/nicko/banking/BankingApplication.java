@@ -1,6 +1,6 @@
 package com.nicko.banking;
 
-import com.nicko.banking.entity.Account;
+import com.nicko.banking.model.Account;
 import com.nicko.banking.enums.AccountType;
 import com.nicko.banking.service.AccountService;
 import com.nicko.banking.service.TransactionService;

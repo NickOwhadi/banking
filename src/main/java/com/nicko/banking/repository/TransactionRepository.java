@@ -1,6 +1,6 @@
 package com.nicko.banking.repository;
 
-import com.nicko.banking.entity.Transaction;
+import com.nicko.banking.model.Transaction;
 import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;

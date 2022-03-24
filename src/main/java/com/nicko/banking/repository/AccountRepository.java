@@ -1,6 +1,6 @@
 package com.nicko.banking.repository;
 
-import com.nicko.banking.entity.Account;
+import com.nicko.banking.model.Account;
 import com.nicko.banking.exception.RecordNotFoundException;
 import org.springframework.stereotype.Component;
 

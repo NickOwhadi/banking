@@ -1,7 +1,7 @@
 package com.nicko.banking.service.impl;
 
-import com.nicko.banking.entity.Account;
-import com.nicko.banking.entity.Transaction;
+import com.nicko.banking.model.Account;
+import com.nicko.banking.model.Transaction;
 import com.nicko.banking.enums.AccountType;
 import com.nicko.banking.exception.AccountOwnerShipException;
 import com.nicko.banking.exception.BadRequestException;

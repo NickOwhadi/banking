@@ -1,6 +1,6 @@
 package com.nicko.banking.service;
 
-import com.nicko.banking.entity.Account;
+import com.nicko.banking.model.Account;
 import com.nicko.banking.enums.AccountType;
 
 import java.math.BigDecimal;

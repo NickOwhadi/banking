@@ -1,4 +1,4 @@
-package com.nicko.banking.entity;
+package com.nicko.banking.model;
 
 
 import com.nicko.banking.enums.AccountType;
